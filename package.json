@@ -1,6 +1,6 @@
 {
   "name": "postcss-no-singleline-comment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "discard single line comment from css",
   "main": "index.js",
   "scripts": {
