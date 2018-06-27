@@ -1,0 +1,32 @@
+{
+  "name": "postcss-no-singleline-comment",
+  "version": "1.0.0",
+  "description": "discard single line comment from css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postcss",
+    "postcss",
+    "plugin",
+    "single",
+    "line",
+    "comment",
+    "discard",
+    "remove"
+  ],
+  "author": "Yuchen Liu",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^6.0.23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuyuchenzh/postcss-no-singleline-comment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liuyuchenzh/postcss-no-singleline-comment/issues"
+  },
+  "homepage": "https://github.com/liuyuchenzh/postcss-no-singleline-comment#readme"
+}
