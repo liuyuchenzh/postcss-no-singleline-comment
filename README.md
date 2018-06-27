@@ -32,8 +32,6 @@ npm i -D postcss-no-singleline-comment
 ```js
 // in .postcssrc.js
 module.exports = {
-  plugins: [
-    require('postcss-no-singleline-comment)
-  ]
+  plugins: [require('postcss-no-singleline-comment')]
 }
 ```
