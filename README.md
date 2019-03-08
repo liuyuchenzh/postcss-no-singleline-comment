@@ -1,5 +1,7 @@
 # postcss-no-singleline-comment
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/liuyuchenzh/postcss-no-singleline-comment.svg)](https://greenkeeper.io/)
+
 ## Intro
 
 A postcss plugin to remove single line comment in css.
