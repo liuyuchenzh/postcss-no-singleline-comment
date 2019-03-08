@@ -19,7 +19,7 @@
   "author": "Yuchen Liu",
   "license": "MIT",
   "dependencies": {
-    "postcss": "^6.0.23"
+    "postcss": "^7.0.14"
   },
   "repository": {
     "type": "git",
